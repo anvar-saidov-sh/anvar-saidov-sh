@@ -7,7 +7,7 @@ Computer Scientist and Software Engineer
 I have been learning computer science since 2022 to be one of the best computer engineers in the world. I have so much passion for system programming and compiler building.
 
 * 🌍  I'm based in Tashkent Uzbekistan
-* 🚀  I'm currently working on [cnitro](http://www.youtube.com/@cnitro)
+* 🚀  Followe me on [youtube](http://www.youtube.com/@cnitro)
 * 🧠  I'm learning advanced web development topics
 * 🤝  I'm open to collaborating on low-level programming projects
 * ⚡  I'm nocturnal🌃
