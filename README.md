@@ -1,6 +1,6 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anvar Saidov
 ====================================================================================================================================
-Computer Scientist and Software Engineer
+Software Engineer
 ----------------------------------------
 I have been learning computer science since 2022 to be one of the best computer engineers in the world. I have so much passion for system programming and compiler building.
 * 🌍  I'm based in Tashkent Uzbekistan
