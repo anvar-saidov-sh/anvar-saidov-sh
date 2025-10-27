@@ -2,7 +2,7 @@
 ====================================================================================================================================
 Software Engineer
 ----------------------------------------
-I have been learning computer science since 2022 to be one of the best computer engineers in the world. I have so much passion for system programming and compiler building.
+I have been learning computer science since 2022.
 * 🌍  I'm based in Tashkent Uzbekistan
 * 🚀  Follow me on [youtube](http://www.youtube.com/@cnitro)
 * 🧠  I'm learning advanced web development topics
