@@ -54,5 +54,7 @@ Follow me on [youtube](http://www.youtube.com/@cnitro)
         </picture> 
     </a>
 </p>
+
 ### Dev Quote
+
 ![Dev Quote](api.svg)
