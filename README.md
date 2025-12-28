@@ -58,3 +58,9 @@ Follow me on [youtube](http://www.youtube.com/@cnitro)
 ### Dev Quote
 
 ![Dev Quote](api.svg)
+
+<!-- GitHub Stats -->
+<img align="left" alt="ismet55555's Github Statistics" src="https://github-readme-stats-phi-wheat.vercel.app/api?username=anvar-saidov-sh&show_icons=true&hide_border=true" />
+
+<br />
+
